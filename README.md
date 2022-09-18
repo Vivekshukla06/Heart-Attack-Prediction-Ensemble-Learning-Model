@@ -12,12 +12,12 @@ Bagging, also known as bootstrap aggregation, is the ensemble learning method th
 ### Voting 
 A Voting Classifier is a machine learning model that trains on an ensemble of numerous models and predicts an output (class) based on their highest probability of chosen class as the output.
 Various Classification algorithms are used for this such as - 
-K-Nearest Neighbour
-LogisticRegression
-Multinomial Naive Bayes
-Gaussian Naive Bayes
-Decision Tree Classifier
-Random Forest Classifier
+K-Nearest Neighbour,
+LogisticRegression,
+Multinomial Naive Bayes,
+Gaussian Naive Bayes,
+Decision Tree Classifier,
+Random Forest Classifier.
 
 ### Results 
 The model performed very well on training data with the accuracy score of 98%.
